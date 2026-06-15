@@ -1,4 +1,4 @@
-// Link: https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+
 int peakIndexInMountainArray(vector<int>& arr) {
     // Your code here
 
